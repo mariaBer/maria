@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaria=self.webpackChunkmaria||[]).push([[2815],{9957:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/maria/blog/tags/hola","allTagsPath":"/maria/blog/tags","count":1,"unlisted":false}')}}]);
